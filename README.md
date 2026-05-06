@@ -1,6 +1,7 @@
 # Product Management System
 
-A roduct Management System developed using Core Java and JUnit 5.  
+A product Management System developed using Core Java and JUnit 5.  
+
 This project demonstrates CRUD operations, object-oriented programming principles, collections framework usage, Java Streams API, validation handling, and unit testing.
 
 ---
